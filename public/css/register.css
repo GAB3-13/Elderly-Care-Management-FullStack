@@ -1,0 +1,84 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color:#fff;
+    background-color:#eae3ea;
+  }
+
+  /* Hero Section 1 */
+  .hero {
+    background-color: #A7B3A5;
+    color: #ffffff;
+    font-family: 'Cambria', serif;
+    margin: 0;
+    text-align: center;
+    padding: 20px 0;
+    height: 100px;
+    font-size: 30px;
+  }
+
+  .input-fields {
+    background-color: #eae3ea;
+    padding: 40px;
+  }
+
+  .input-fields h2 {
+    margin-bottom: 20px;
+    color: #fff;
+    text-align: center;
+
+    margin: 0 auto;
+  }
+
+  /* Input Field List */
+  .input-fields ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .input-fields li {
+    margin-bottom: 15px;
+  }
+
+  .register-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+  }
+
+  .register-form {
+    background-color: #A7B3A5;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  input {
+    width: 93%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  .button {
+    padding: 10px 40px;
+    margin: 0 auto;
+    border: none;
+    cursor: pointer;
+    background-color: #BE5949; 
+    color: #ffffff; 
+    transition: background-color 0.5s ease; 
+    text-decoration: none; 
+    display: inline-block;
+  }
+  .button a {
+    text-decoration: none; 
+    color: inherit; 
+  }
+  
+  .button:hover {
+    background-color: #85463B; 
+  }
