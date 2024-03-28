@@ -1,7 +1,7 @@
-## Elderly Care Home
+# Elderly Care Home
 This was a project that used OOP to make a Management system for an Elderly care home Using **LARAVEL** and **SQL**
 
-# Project Features
+## Project Features
 -Login/Register
 -6 different roles(Admin,Doctor,Supervisor,Patient,Caregiver,Family Memeber)
 -Security measures per role level
